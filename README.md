@@ -26,9 +26,18 @@ If you're interested in our research or joining the lab, feel free to contact us
 ---
 
 ## 📚 Latest Publications
-- Hong, E. K., Kim, J., & Choi, I. (2025).  
-  Mapping meaning and pleasure on the temporal horizon: Long-term orientation predicts preference for meaningful over pleasurable activities. European Journal of Social Psychology.  
-  [Read Paper](https://doi.org/10.1002/ejsp.3142) | [Data Analysis](https://doi.org/10.1002/ejsp.3142)
+- Rivera, G. N., Kim, J., Kelley, N. J., Hicks, J. A., & Schlegel, R. J. (2025). Liking predicts judgments of authenticity in real-time interactions more robustly than personality states or affect. Personality and Social Psychology Bulletin, 51(8), 1431–1443. https://doi.org/10.1177/01461672231218758
+
+
+Hong, E. K., Kim, J., & Choi, I. (2025). Mapping meaning and pleasure on the temporal horizon: Long-term orientation predicts preference for meaningful over pleasurable activities. European Journal of Social Psychology, 55(2), 274–293. https://doi.org/10.1002/ejsp.3142
+
+
+Hong, E. K., Kim, J., & Choi, I. (2025). Implicit theories of happiness: When happiness is viewed as changeable, happy people are perceived much more positively than unhappy people. Personality and Social Psychology Bulletin, 51(2), 185–202. https://doi.org/10.1177/01461672231184711 
+
+​
+
+Guthrie, D., Maffly-Kipp, J., Gause, C., Kim, J., Martela, F., & Hicks, J. A. (2025). The role of interpersonal mattering vs. cosmic mattering in the experience of meaning in life. The Journal of Positive Psychology, 20(1), 136–150. https://doi.org/10.1080/17439760.2024.2314289
+
 
 ---
 
